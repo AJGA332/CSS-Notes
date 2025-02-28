@@ -39,6 +39,7 @@ body{
     background-color: #59e;
     border-radius: 20px;
     color: #444;
+    /* MAIN SECTION */ 
 }
 .wrapper{
     display: flex;
