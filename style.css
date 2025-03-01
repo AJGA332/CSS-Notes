@@ -6,6 +6,7 @@
 body{
     background-color: gray;
 }
+/* NAV SECTION */
 .nav__list{
     list-style: none;
 }
@@ -47,7 +48,6 @@ body{
     background-color: #48e;
 }
 .main--wrapper{
-    gap: 5vw;
 }
 .main__content{
     background: #fff;
@@ -55,6 +55,6 @@ body{
     flex-grow: 2;
 }
 .aside__main{
-    background-color: #48e;
-    padding: 1vw;
+
+    padding: 1rem;
 }
